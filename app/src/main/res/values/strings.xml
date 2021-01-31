@@ -14,4 +14,7 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="text_view1">Czym jest rodzajnik?</string>
+    <string name="text_view2">W języku niemieckim tak jak i w polskim, istnieje rodzaj męski, żeński i nijaki. \nRodzajnik określa rzeczownik i piszemy go przed nim np. Das Auto - To auto.</string>
+    <string name="text_view3">W liczbie pojedynczej występją trzy rodzajniki określone: Der, Die, Das. W liczbie mnogiej do każdego rodzaju zawsze będzie wykorzystywany rodzajnik: Die. \nSpójrz na tabelkę poniżej:</string>
 </resources>
