@@ -9,10 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Rodzajniki">
+        <activity android:name=".GraActivity"></activity>
         <activity
             android:name=".Samouczek"
             android:label="@string/title_activity_samouczek"
-            android:theme="@style/Theme.Rodzajniki.NoActionBar"></activity>
+            android:theme="@style/Theme.Rodzajniki.NoActionBar" />
         <activity android:name=".samouczek.Samouczek" />
         <activity android:name=".MainActivity">
             <intent-filter>
