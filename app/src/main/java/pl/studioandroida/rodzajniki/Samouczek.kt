@@ -20,5 +20,7 @@ class Samouczek : AppCompatActivity() {
             startActivity(intent)
             finish()
         }
+
+
     }
 }

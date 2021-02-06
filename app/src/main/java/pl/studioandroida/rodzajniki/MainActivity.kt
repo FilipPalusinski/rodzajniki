@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         val isFirst = sharedPreferences.getBoolean("isFirst", true)
         if(!isFirst){
             //jezeli nie jest to jego pierwsze wlaczenie aplikacji, to pomijam samouczek
-            val intent = Intent(this, GraActivity::class.java)
+            val intent = Intent(this, MenuActivity::class.java)
             startActivity(intent)
             finish()
         }
