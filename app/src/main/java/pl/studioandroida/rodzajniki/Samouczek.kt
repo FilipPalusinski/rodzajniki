@@ -16,7 +16,7 @@ class Samouczek : AppCompatActivity() {
 
 
         zaczynam.setOnClickListener {
-            val intent = Intent(this, GraActivity::class.java)
+            val intent = Intent(this, MenuActivity::class.java)
             startActivity(intent)
             finish()
         }
